@@ -1,4 +1,4 @@
-[![Download](https://api.bintray.com/packages/ikala/maven/ika-tracker/images/download.svg) ](https://bintray.com/ikala/maven)
+[![Download](https://api.bintray.com/packages/ikala/maven/ika-tracker/images/download.svg) ](https://bintray.com/ikala/maven)
 
 # iKala BDL Android SDK
 
