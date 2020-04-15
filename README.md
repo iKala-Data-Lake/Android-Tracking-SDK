@@ -1,10 +1,10 @@
 [![Download](https://api.bintray.com/packages/ikala/maven/ika-tracker/images/download.svg) ](https://bintray.com/ikala/maven)
 
-# iKala BDL Android SDK
+# iKala Data Lake Android SDK
 
-A SDK to tracker what user do for analysis.
+A SDK to tracker what users do for analysis.
 
 # Getting Started
 
-See [Wiki](https://github.com/Big-Data-Lake/Android-Tracking-SDK/wiki/Getting-started).
+See [Wiki](https://github.com/iKala-Data-Lake/Android-Tracking-SDK/wiki/Getting-started).
 
